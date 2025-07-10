@@ -1,7 +1,7 @@
  👋 Hi, I'm Aniket Deshmukh
 
 **Data Analyst** | Turning Raw Data into Smart Decisions  
-📍 India | 📧 aniket.deshmukh@example.com  
+📍 India | 📧 aniketdeshmukh1900@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/aniket-deshmukh) | 💼 [GitHub](https://github.com/aniketdeshmukh12699)  
 🧠 Currently Learning: **Power BI** & **Advanced SQL**
 
