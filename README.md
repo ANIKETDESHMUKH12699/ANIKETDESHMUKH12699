@@ -57,4 +57,4 @@ Data Science [2024-205]
 
 - 📧 Email: aniketdeshmukh1900@gmail.com
 - 💼 GitHub: [aniketdeshmukh12699](https://github.com/aniketdeshmukh12699)
-- 🔗 LinkedIn: [www.linkedin.com/in/aniket-deshmukh-8696952a6]
+- 🔗 LinkedIn: https://www.linkedin.com/in/aniket-deshmukh-108294371
