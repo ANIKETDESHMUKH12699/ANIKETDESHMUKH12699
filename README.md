@@ -2,7 +2,7 @@
 
 **Data Analyst** | Turning Raw Data into Smart Decisions  
 📍 India | 📧 aniketdeshmukh1900@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/aniket-deshmukh) | 💼 [GitHub](https://github.com/aniketdeshmukh12699)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aniket-deshmukh-108294371| 💼 [GitHub](https://github.com/aniketdeshmukh12699)  
 🧠 Currently Learning: **Power BI** & **Advanced SQL**
 
 ---
@@ -48,11 +48,12 @@ I’m a data-driven problem solver with a strong foundation in statistics, data 
 
 **Bachelor's Degree in [B.COM]**  
 [Y.C.M], [2025]
+Data Seince [2024-205]
 
 
 
 
-## 📬 Contact
+## 📬 Contact -9834773929,9527434008
 
 - 📧 Email: aniketdeshmukh1900@gmail.com
 - 💼 GitHub: [aniketdeshmukh12699](https://github.com/aniketdeshmukh12699)
