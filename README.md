@@ -48,7 +48,7 @@ I’m a data-driven problem solver with a strong foundation in statistics, data 
 
 **Bachelor's Degree in [B.COM]**  
 [Y.C.M], [2025]
-Data Science [2024-205]
+Data Science [2024-2025]
 
 
 
